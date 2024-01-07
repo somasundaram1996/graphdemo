@@ -1,0 +1,6 @@
+type SubmitReviewResponse {
+    code: Int!
+    success: Boolean!
+    message: String!
+    locationReview: Review
+}

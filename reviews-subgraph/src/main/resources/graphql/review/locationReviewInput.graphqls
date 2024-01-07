@@ -1,0 +1,5 @@
+input LocationReviewInput {
+    comment: String!
+    rating: Int!
+    locationId: String!
+}

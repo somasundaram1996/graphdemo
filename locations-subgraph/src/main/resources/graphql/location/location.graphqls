@@ -1,0 +1,5 @@
+type Location @key(fields: "id") {
+    id: ID!
+    name: String!
+    description: String!
+}
